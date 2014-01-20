@@ -1,18 +1,11 @@
-The Conquest of Bread - Peter Kropotkin
+Baráttan um brauðið - Pjotr Kropotkin
 
-image/jpeg iconsp001662[1].jpg
-Peter Kropotkin's "The Conquest of Bread", along with his "Fields Factories and Workshops" was the result of his extensive research into industrial and agricultural production; originally published by G. P. Putnam's Sons, New York and London, 1906.
+(hér er pláss fyrir inngang)
 
-Whereas Marx's main contribution to economics was his analysis of the commodity relationship in Capital - capitalism rather than communism - Kropotkin assesses what would need to be done, and most importantly how, in a communist society.
 
-Now, almost 100 years later, technology and society has changed enormously, but the practical consideration Kropotkin gives to the question of production and distribution in a revolutionary society has taken on a new importance in the context of our globalised, interdependent, and resource intensive economic system.
+<h1>1. Kafli</h1>
+Verðmætin okkar
 
-Chapter I - Our Riches
-
-The Conquest of Bread
-
-CHAPTER I
-Our Riches
 
 I
 
