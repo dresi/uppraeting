@@ -6,13 +6,14 @@
 <h1>1. Kafli</h1>
 Verðmætin okkar
 
-<p>
+
 I
 
 Mannskepnan hefur ferðast víða síðan menn handverkuðu hráefnin sín úr steinum og lifðu í hættusömum eltingaleik. Þegar arfurinn milli kynslóða var aðeins skjól undir bergi, fátækleg verkfæri og náttúran, víðfemin, torskilin og ógnvænleg þeim sem urðu að berjast fyrir lífi sínu í fátæklegum veruleika.
 
+Þessir erfuðu tímar sem hafa enst í mörg þúsund ár hefur samt sem áður fært mannkyninu fjársjóð. Maðurinn hefur rýmt löndin, þurrkað votlendin, höggvað skógana, legið vegi. Einnig byggt mannvirki, uppgvötað, mælt, rökrætt, skapað flóknar vélar, afkóðað leyndarmál náttúrunnar, að lokum hefur mannkynið gert gufuvélina að sínum þræl. Niðurstaðan er sú að barn siðaða mannsins fær í vöggugjöf gífurlegann höfuðstól sem var safnaður saman af þeim sem á undann komu. Og þessi höfuðstóll gerir því kleift með sinni vinnu í bland við vinnu annara að öðlast verðmæti sem fornaldarmaðurinn gat einungis dreymt um, eins og er ritað í ævintýrinu Þúsund og ein nótt.
 
-During the agitated times which have elapsed since, and which have lasted for many thousand years, mankind has nevertheless amassed untold treasures. It has cleared the land, dried the marshes, pierced the forests, made roads; it has been building, inventing, observing, reasoning; it has created a complex machinery, wrested her secrets from Nature, and finally it has made a servant of steam. And the result is, that now the child of the civilized man finds ready, at its birth, to his hand an immense capital accumulated by those who have gone before him. And this capital enables him to acquire, merely by his own labour, combined with the labour of others, riches surpassing the dreams of the Orient, expressed in the fairy tales of the Thousand and One Nights.
+
 
 The soil is cleared to a great extent, fit for the reception of the best seeds, ready to make a rich return for the skill and labour spent upon it-- a return more than sufficient for all the wants of humanity. The methods of cultivation are known.
 
@@ -90,7 +91,7 @@ All is for all! If the man and the woman bear their fair share of work, they hav
 
 Footnotes
 1. For the International Paris Exhibitions of 1889 and 1900.
-</p>
+
 
 Chapter II - Well-Being for All
 
