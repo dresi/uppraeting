@@ -11,7 +11,7 @@ I
 
 Mannskepnan hefur ferðast víða síðan menn handverkuðu hráefnin sín úr steinum og lifðu í hættusömum eltingaleik. Þegar arfurinn milli kynslóða var aðeins skjól undir bergi, fátækleg verkfæri og náttúran, víðfemin, torskilin og ógnvænleg þeim sem urðu að berjast fyrir lífi sínu í fátæklegum veruleika.
 
-Þessir erfuðu tímar sem hafa enst í mörg þúsund ár hefur samt sem áður fært mannkyninu fjársjóð. Maðurinn hefur rýmt löndin, þurrkað votlendin, höggvað skógana, legið vegi. Einnig byggt mannvirki, uppgvötað, mælt, rökrætt, skapað flóknar vélar, afkóðað leyndarmál náttúrunnar, að lokum hefur mannkynið gert gufuvélina að sínum þræl. Niðurstaðan er sú að barn siðaða mannsins fær í vöggugjöf gífurlegann höfuðstól sem var safnaður saman af þeim sem á undann komu. Og þessi höfuðstóll gerir því kleift með sinni vinnu í bland við vinnu annara að öðlast verðmæti sem fornaldarmaðurinn gat einungis dreymt um, eins og er ritað í ævintýrinu Þúsund og ein nótt.
+Þessir erfuðu tímar sem hafa enst í mörg þúsund ár hafa samt sem áður fært mannkyninu fjársjóð. Maðurinn hefur rýmt löndin, þurrkað votlendin, höggvað skógana, legið vegi. Einnig byggt mannvirki, uppgvötað, mælt, rökrætt, skapað flóknar vélar, afkóðað leyndarmál náttúrunnar, að lokum hefur mannkynið gert gufuvélina að sínum þræl. Niðurstaðan er sú að barn siðaða mannsins fær í vöggugjöf gífurlegann höfuðstól sem var safnaður saman af þeim sem á undann komu. Og þessi höfuðstóll gerir því kleift með sinni vinnu í bland við vinnu annara að öðlast verðmæti sem fornaldarmaðurinn gat einungis dreymt um, eins og er ritað í ævintýrinu Þúsund og ein nótt.
 
 
 
