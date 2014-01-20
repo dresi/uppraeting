@@ -1,4 +1,4 @@
-Baráttan um brauðið - Pjotr Kropotkin
+<h2>Baráttan um brauðið - Pjotr Kropotkin</h2>
 
 (hér er pláss fyrir inngang)
 
@@ -6,10 +6,11 @@ Baráttan um brauðið - Pjotr Kropotkin
 <h1>1. Kafli</h1>
 Verðmætin okkar
 
-
+<p>
 I
 
-THE human race has travelled far since, those bygone ages when men used to fashion their rude implements of flint, and lived on the precarious spoils of the chase, leaving to their children for their only heritage a shelter beneath the rocks, some poor utensils--and Nature, vast, ununderstood, and terrific, with whom they had to fight for their wretched existence.
+Mannskepnan hefur ferðast víða síðan menn handverkuðu hráefnin sín úr steinum og lifðu í hættusömum eltingaleik. Þegar arfurinn milli kynslóða var aðeins skjól undir bergi, fátækleg verkfæri og náttúran, víðfemin, torskilin og ógnvænleg þeim sem urðu að berjast fyrir lífi sínu í fátæklegum veruleika.
+
 
 During the agitated times which have elapsed since, and which have lasted for many thousand years, mankind has nevertheless amassed untold treasures. It has cleared the land, dried the marshes, pierced the forests, made roads; it has been building, inventing, observing, reasoning; it has created a complex machinery, wrested her secrets from Nature, and finally it has made a servant of steam. And the result is, that now the child of the civilized man finds ready, at its birth, to his hand an immense capital accumulated by those who have gone before him. And this capital enables him to acquire, merely by his own labour, combined with the labour of others, riches surpassing the dreams of the Orient, expressed in the fairy tales of the Thousand and One Nights.
 
@@ -89,6 +90,7 @@ All is for all! If the man and the woman bear their fair share of work, they hav
 
 Footnotes
 1. For the International Paris Exhibitions of 1889 and 1900.
+</p>
 
 Chapter II - Well-Being for All
 
