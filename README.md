@@ -1,4 +1,4 @@
-uppraeting
+Uppræting - Bandalag Anarkista
 ==========
 
 Samvinnuverkefni við þýðingar á anarkistaefni
