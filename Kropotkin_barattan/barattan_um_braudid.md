@@ -1,4 +1,4 @@
-<h2>Baráttan um brauðið - Pjotr Kropotkin</h2>
+<h2>Baráttan um brauð - Pjotr Kropotkin</h2>
 
 (hér er pláss fyrir inngang)
 
