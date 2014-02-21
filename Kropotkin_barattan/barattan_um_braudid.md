@@ -16,6 +16,7 @@ Mannskepnan hefur ferðast víða síðan menn handverkuðu tólin sín úr stei
 
 Jarðvegurinn er ruddur og undirbúinn til að taka á móti bestu fræunum. Hæfni og vinna mun svo leiða til ríkulegrar uppskeru sem er meira en nóg fyrir allar þarfir mannkyns. Aðferðir ræktunnar á landi eru þar með þekktar.
 
+Test fyrir Andra
 
 On the wide prairies of America each hundred men, with the aid of powerful machinery, can produce in a few months enough wheat to maintain ten thousand people for a whole year. And where man wishes to double his produce, to treble it, to multiply it a hundred-fold, he makes the soil, gives to each plant the requisite care, and thus obtains enormous returns. While the hunter of old had to scour fifty or sixty square miles to find food for his family, the civilized man supports his household, with far less pains, and far more certainty, on a thousandth part of that space. Climate is no longer an obstacle. When the sun fails, man replaces it by artificial heat; and we see the coming of a time when artificial light also will be used to stimulate vegetation. Meanwhile, by the use of glass and hot water pipes, man renders a given space ten and fifty times more productive than it was in its natural state.
 
